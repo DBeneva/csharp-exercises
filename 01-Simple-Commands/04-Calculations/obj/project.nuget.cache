@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vgRd6Tw6ai+PJMPHBrL0exi2Y0VlYpIGjkrApdz5hzJaFFHSeG7j7x5cKkcq4JH8lvpw90DTGg20PjEhjtVgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\01-Simple-Commands\\04-Calculations\\04-Calculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

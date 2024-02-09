@@ -1,0 +1,14 @@
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\bin\Debug\net6.0\03-Name-and-Expression.exe
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\bin\Debug\net6.0\03-Name-and-Expression.deps.json
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\bin\Debug\net6.0\03-Name-and-Expression.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\bin\Debug\net6.0\03-Name-and-Expression.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\bin\Debug\net6.0\03-Name-and-Expression.pdb
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\refint\03-Name-and-Expression.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.pdb
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\03-Name-and-Expression.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\03-Number-Operations\obj\Debug\net6.0\ref\03-Name-and-Expression.dll

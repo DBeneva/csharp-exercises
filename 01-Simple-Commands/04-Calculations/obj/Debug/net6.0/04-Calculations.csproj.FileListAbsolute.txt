@@ -1,0 +1,14 @@
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\bin\Debug\net6.0\04-Calculations.exe
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\bin\Debug\net6.0\04-Calculations.deps.json
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\bin\Debug\net6.0\04-Calculations.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\bin\Debug\net6.0\04-Calculations.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\bin\Debug\net6.0\04-Calculations.pdb
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\refint\04-Calculations.dll
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.pdb
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\04-Calculations.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\01-Simple-Commands\04-Calculations\obj\Debug\net6.0\ref\04-Calculations.dll
