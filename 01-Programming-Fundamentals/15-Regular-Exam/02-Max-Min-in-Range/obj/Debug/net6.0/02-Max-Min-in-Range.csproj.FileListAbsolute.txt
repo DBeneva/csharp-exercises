@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\bin\Debug\net6.0\02-Max-Min-in-Range.exe
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\bin\Debug\net6.0\02-Max-Min-in-Range.deps.json
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\bin\Debug\net6.0\02-Max-Min-in-Range.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\bin\Debug\net6.0\02-Max-Min-in-Range.dll
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\bin\Debug\net6.0\02-Max-Min-in-Range.pdb
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.sourcelink.json
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.dll
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\refint\02-Max-Min-in-Range.dll
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.pdb
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\02-Max-Min-in-Range.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\15-Regular-Exam\02-Max-Min-in-Range\obj\Debug\net6.0\ref\02-Max-Min-in-Range.dll

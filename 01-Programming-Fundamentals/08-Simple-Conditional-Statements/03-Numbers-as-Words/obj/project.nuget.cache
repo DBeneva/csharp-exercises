@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCGul6NVuU/YteNABa3s+psQXnau9GNzEEE9L9AOb+u1ppYDIKUVbYqUUfFoKlbq1B6wxpDvo6INqZ2x159yEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\07-Simple-Conditional-Statements\\03-Numbers-as-Words\\03-Numbers-as-Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

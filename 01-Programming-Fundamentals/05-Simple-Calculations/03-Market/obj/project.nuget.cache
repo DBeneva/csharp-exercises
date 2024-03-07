@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9AYyA/3KcKi9mHQDH5DRh5eC6zIGHJQuVpxncRFM4IfiyLMEQgktMS+0lHzoTr+ObM7boUE6LsJJqFvXp5akw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\05-Simple-Calculations\\03-Market\\03-Market.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

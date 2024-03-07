@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\bin\Debug\net6.0\07-Latin-Letters.exe
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\bin\Debug\net6.0\07-Latin-Letters.deps.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\bin\Debug\net6.0\07-Latin-Letters.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\bin\Debug\net6.0\07-Latin-Letters.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\bin\Debug\net6.0\07-Latin-Letters.pdb
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.sourcelink.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\refint\07-Latin-Letters.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.pdb
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\07-Latin-Letters.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\07-Latin-Letters\obj\Debug\net6.0\ref\07-Latin-Letters.dll

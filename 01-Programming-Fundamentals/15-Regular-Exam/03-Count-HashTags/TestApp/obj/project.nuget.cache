@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "auTNdRjCHm6q9cpEts4hmUrX21V3149UJVAbC7pj8A45uadYcE8JAL9b6T0SCRqxHAd8SOErR27M74UnI4viSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\15-Regular-Exam\\03-Count-HashTags\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

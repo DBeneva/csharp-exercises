@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnGuEruXqddEa4k9SrUr1DxSykc5J23Na5puMLVp64iSIhrK8tQ03GVm7Ak8Cf5RJl1k2+lQNAZUzJpfxn954w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\02-Simple-Commands-and-VS-Exercise\\06-Inches-to-Cm\\06-Inches-to-Cm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

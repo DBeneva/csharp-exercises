@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hSqtB+Tp6mqVXaOrAyhO5XT0AnqoVfhA01PPwLs2fUxkf3b3p77Z3MgHF+M7zfzhclqXfaOeNzwuSf6XG488A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\04-Data-Types-and-Variables\\03-Circle-Area-and-Perimeter\\03-Circle-Area-and-Perimeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

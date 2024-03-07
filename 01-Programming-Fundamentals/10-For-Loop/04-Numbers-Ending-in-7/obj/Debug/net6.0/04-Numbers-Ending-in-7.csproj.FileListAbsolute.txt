@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\bin\Debug\net6.0\04-Numbers-Ending-in-7.exe
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\bin\Debug\net6.0\04-Numbers-Ending-in-7.deps.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\bin\Debug\net6.0\04-Numbers-Ending-in-7.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\bin\Debug\net6.0\04-Numbers-Ending-in-7.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\bin\Debug\net6.0\04-Numbers-Ending-in-7.pdb
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.sourcelink.json
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\refint\04-Numbers-Ending-in-7.dll
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.pdb
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\04-Numbers-Ending-in-7.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\10-For-Loop\04-Numbers-Ending-in-7\obj\Debug\net6.0\ref\04-Numbers-Ending-in-7.dll

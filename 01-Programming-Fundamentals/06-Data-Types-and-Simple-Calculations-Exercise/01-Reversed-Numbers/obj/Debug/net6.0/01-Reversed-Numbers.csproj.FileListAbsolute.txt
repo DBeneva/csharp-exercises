@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\bin\Debug\net6.0\01-Reversed-Numbers.exe
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\bin\Debug\net6.0\01-Reversed-Numbers.deps.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\bin\Debug\net6.0\01-Reversed-Numbers.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\bin\Debug\net6.0\01-Reversed-Numbers.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\bin\Debug\net6.0\01-Reversed-Numbers.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.sourcelink.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\refint\01-Reversed-Numbers.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\01-Reversed-Numbers.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\01-Reversed-Numbers\obj\Debug\net6.0\ref\01-Reversed-Numbers.dll

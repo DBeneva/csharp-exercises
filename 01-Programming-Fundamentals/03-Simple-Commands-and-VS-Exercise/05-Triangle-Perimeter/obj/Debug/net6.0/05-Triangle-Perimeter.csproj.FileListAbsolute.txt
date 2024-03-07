@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\bin\Debug\net6.0\05-Triangle-Perimeter.exe
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\bin\Debug\net6.0\05-Triangle-Perimeter.deps.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\bin\Debug\net6.0\05-Triangle-Perimeter.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\bin\Debug\net6.0\05-Triangle-Perimeter.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\bin\Debug\net6.0\05-Triangle-Perimeter.pdb
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\refint\05-Triangle-Perimeter.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.pdb
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\05-Triangle-Perimeter.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\05-Triangle-Perimeter\obj\Debug\net6.0\ref\05-Triangle-Perimeter.dll

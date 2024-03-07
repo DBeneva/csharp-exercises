@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPwm2qIfCpAXR3+oRBrfP4miyACZEcM2ZIBw6TzzJbe5mayyrRiydyJAn0TB2gMeEcSixFXyNLv+uEOTZ2nwPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\10-For-Loop\\04-Numbers-Ending-in-7\\04-Numbers-Ending-in-7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

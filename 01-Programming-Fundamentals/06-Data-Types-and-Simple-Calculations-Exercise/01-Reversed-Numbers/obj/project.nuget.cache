@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "02lAMbG1nawKCIJjIdy1hxMdwSOC0yEArM1e90wiVmvBGtKRQatS/aHvAAiGeuj2LvnYk7PrBkLyJxR8GTNykQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\06-Data-Types-and-Simple-Calculations-Exercise\\01-Reversed-Numbers\\01-Reversed-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

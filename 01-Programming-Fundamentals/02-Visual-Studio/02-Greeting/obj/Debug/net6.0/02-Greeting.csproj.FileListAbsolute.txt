@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\bin\Debug\net6.0\02-Greeting.exe
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\bin\Debug\net6.0\02-Greeting.deps.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\bin\Debug\net6.0\02-Greeting.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\bin\Debug\net6.0\02-Greeting.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\bin\Debug\net6.0\02-Greeting.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\refint\02-Greeting.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\02-Greeting.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\02-Greeting\obj\Debug\net6.0\ref\02-Greeting.dll

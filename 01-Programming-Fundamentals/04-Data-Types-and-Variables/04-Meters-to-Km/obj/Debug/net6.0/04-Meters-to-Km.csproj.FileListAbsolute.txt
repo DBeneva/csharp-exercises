@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\bin\Debug\net6.0\04-Meters-to-Km.exe
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\bin\Debug\net6.0\04-Meters-to-Km.deps.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\bin\Debug\net6.0\04-Meters-to-Km.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\bin\Debug\net6.0\04-Meters-to-Km.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\bin\Debug\net6.0\04-Meters-to-Km.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.sourcelink.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\refint\04-Meters-to-Km.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\04-Meters-to-Km.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\04-Meters-to-Km\obj\Debug\net6.0\ref\04-Meters-to-Km.dll

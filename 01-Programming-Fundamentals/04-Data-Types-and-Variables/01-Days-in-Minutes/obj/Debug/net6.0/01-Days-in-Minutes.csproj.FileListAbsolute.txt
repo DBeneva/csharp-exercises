@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\bin\Debug\net6.0\01-Days-in-Minutes.exe
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\bin\Debug\net6.0\01-Days-in-Minutes.deps.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\bin\Debug\net6.0\01-Days-in-Minutes.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\bin\Debug\net6.0\01-Days-in-Minutes.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\bin\Debug\net6.0\01-Days-in-Minutes.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.sourcelink.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\refint\01-Days-in-Minutes.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\01-Days-in-Minutes.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\01-Days-in-Minutes\obj\Debug\net6.0\ref\01-Days-in-Minutes.dll

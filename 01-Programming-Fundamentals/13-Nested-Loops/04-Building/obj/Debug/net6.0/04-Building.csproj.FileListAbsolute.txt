@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\bin\Debug\net6.0\04-Building.exe
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\bin\Debug\net6.0\04-Building.deps.json
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\bin\Debug\net6.0\04-Building.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\bin\Debug\net6.0\04-Building.dll
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\bin\Debug\net6.0\04-Building.pdb
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.sourcelink.json
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.dll
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\refint\04-Building.dll
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.pdb
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\04-Building.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\13-Nested-Loops\04-Building\obj\Debug\net6.0\ref\04-Building.dll

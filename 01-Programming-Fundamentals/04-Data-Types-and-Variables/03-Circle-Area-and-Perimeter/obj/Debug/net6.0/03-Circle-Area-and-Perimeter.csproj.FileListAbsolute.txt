@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\bin\Debug\net6.0\03-Circle-Area-and-Perimeter.exe
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\bin\Debug\net6.0\03-Circle-Area-and-Perimeter.deps.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\bin\Debug\net6.0\03-Circle-Area-and-Perimeter.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\bin\Debug\net6.0\03-Circle-Area-and-Perimeter.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\bin\Debug\net6.0\03-Circle-Area-and-Perimeter.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.sourcelink.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\refint\03-Circle-Area-and-Perimeter.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\03-Circle-Area-and-Perimeter.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\03-Circle-Area-and-Perimeter\obj\Debug\net6.0\ref\03-Circle-Area-and-Perimeter.dll

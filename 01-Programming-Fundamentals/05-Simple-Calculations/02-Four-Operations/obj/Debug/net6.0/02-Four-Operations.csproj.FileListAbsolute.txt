@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\bin\Debug\net6.0\02-Four-Operations.exe
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\bin\Debug\net6.0\02-Four-Operations.deps.json
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\bin\Debug\net6.0\02-Four-Operations.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\bin\Debug\net6.0\02-Four-Operations.dll
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\bin\Debug\net6.0\02-Four-Operations.pdb
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.sourcelink.json
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.dll
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\refint\02-Four-Operations.dll
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.pdb
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\02-Four-Operations.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\05-Simple-Calculations\02-Four-Operations\obj\Debug\net6.0\ref\02-Four-Operations.dll

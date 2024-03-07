@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\bin\Debug\net6.0\03-Customer-Info.exe
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\bin\Debug\net6.0\03-Customer-Info.deps.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\bin\Debug\net6.0\03-Customer-Info.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\bin\Debug\net6.0\03-Customer-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\bin\Debug\net6.0\03-Customer-Info.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\refint\03-Customer-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\03-Customer-Info.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\03-Customer-Info\obj\Debug\net6.0\ref\03-Customer-Info.dll

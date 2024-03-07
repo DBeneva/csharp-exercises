@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\bin\Debug\net6.0\01-Hello-SoftUni.exe
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\bin\Debug\net6.0\01-Hello-SoftUni.deps.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\bin\Debug\net6.0\01-Hello-SoftUni.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\bin\Debug\net6.0\01-Hello-SoftUni.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\bin\Debug\net6.0\01-Hello-SoftUni.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\refint\01-Hello-SoftUni.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\01-Hello-SoftUni.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\01-Hello-SoftUni\obj\Debug\net6.0\ref\01-Hello-SoftUni.dll

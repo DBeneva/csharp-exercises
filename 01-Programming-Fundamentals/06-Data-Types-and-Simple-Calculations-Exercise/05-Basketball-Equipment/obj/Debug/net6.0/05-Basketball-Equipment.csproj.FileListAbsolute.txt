@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\bin\Debug\net6.0\05-Basketball-Equipment.exe
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\bin\Debug\net6.0\05-Basketball-Equipment.deps.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\bin\Debug\net6.0\05-Basketball-Equipment.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\bin\Debug\net6.0\05-Basketball-Equipment.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\bin\Debug\net6.0\05-Basketball-Equipment.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.sourcelink.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\refint\05-Basketball-Equipment.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\05-Basketball-Equipment.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\05-Basketball-Equipment\obj\Debug\net6.0\ref\05-Basketball-Equipment.dll

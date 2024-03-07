@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MP0f3geZqe2GTPw4Lf+dRuJT7EYYQJMoT4WWQ7wwjkMYf0xxpWaWZ+uiKgwfhwB1h6s6e+raqVkJ2/yEmcyf9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\07-Simple-Conditional-Statements\\11-Coffee-Shop\\11-Coffee-Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\bin\Debug\net6.0\07-Number-Processor.exe
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\bin\Debug\net6.0\07-Number-Processor.deps.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\bin\Debug\net6.0\07-Number-Processor.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\bin\Debug\net6.0\07-Number-Processor.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\bin\Debug\net6.0\07-Number-Processor.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.sourcelink.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\refint\07-Number-Processor.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\07-Number-Processor.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\07-Number-Processor\obj\Debug\net6.0\ref\07-Number-Processor.dll

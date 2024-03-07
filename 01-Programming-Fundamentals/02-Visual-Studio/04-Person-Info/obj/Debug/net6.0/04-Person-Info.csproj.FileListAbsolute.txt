@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\bin\Debug\net6.0\04-Person-Info.exe
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\bin\Debug\net6.0\04-Person-Info.deps.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\bin\Debug\net6.0\04-Person-Info.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\bin\Debug\net6.0\04-Person-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\bin\Debug\net6.0\04-Person-Info.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\refint\04-Person-Info.dll
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.pdb
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\04-Person-Info.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Visual-Studio\04-Person-Info\obj\Debug\net6.0\ref\04-Person-Info.dll

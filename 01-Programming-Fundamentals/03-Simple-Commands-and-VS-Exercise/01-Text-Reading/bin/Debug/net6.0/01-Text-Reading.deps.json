@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01-Text-Reading/1.0.0": {
+        "runtime": {
+          "01-Text-Reading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-Text-Reading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

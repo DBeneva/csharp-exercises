@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YW3e0IhVSFijqCN6PLirAefn6aH3nvD1CEg1ZSDJZdDgqxq9GT8AilQSRZ+lDRpbMuAMfKN3dCqzbLqKsi33Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\15-Regular-Exam\\02-Max-Min-in-Range\\02-Max-Min-in-Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

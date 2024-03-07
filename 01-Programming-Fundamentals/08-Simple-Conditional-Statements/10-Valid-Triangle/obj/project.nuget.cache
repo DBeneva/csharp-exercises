@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLLz2n6LYXTJFEJJaiPFV1W/Te9OZBB660ZtGE++eWYvcMdAOBNQDgkqVt/WyJDWe/0oRkifkEaYQXGz9+5AGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\07-Simple-Conditional-Statements\\10-Valid-Triangle\\10-Valid-Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

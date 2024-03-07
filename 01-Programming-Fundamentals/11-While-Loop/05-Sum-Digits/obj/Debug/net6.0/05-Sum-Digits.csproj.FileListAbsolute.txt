@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\bin\Debug\net6.0\05-Sum-Digits.exe
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\bin\Debug\net6.0\05-Sum-Digits.deps.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\bin\Debug\net6.0\05-Sum-Digits.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\bin\Debug\net6.0\05-Sum-Digits.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\bin\Debug\net6.0\05-Sum-Digits.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.sourcelink.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\refint\05-Sum-Digits.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\05-Sum-Digits.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\05-Sum-Digits\obj\Debug\net6.0\ref\05-Sum-Digits.dll

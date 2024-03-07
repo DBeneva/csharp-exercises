@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\bin\Debug\net6.0\06-Number-in-Range.exe
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\bin\Debug\net6.0\06-Number-in-Range.deps.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\bin\Debug\net6.0\06-Number-in-Range.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\bin\Debug\net6.0\06-Number-in-Range.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\bin\Debug\net6.0\06-Number-in-Range.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.sourcelink.json
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\refint\06-Number-in-Range.dll
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.pdb
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\06-Number-in-Range.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\11-While-Loop\06-Number-in-Range\obj\Debug\net6.0\ref\06-Number-in-Range.dll

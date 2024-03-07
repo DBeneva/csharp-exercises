@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\bin\Debug\net6.0\02-Calculate-Speed.exe
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\bin\Debug\net6.0\02-Calculate-Speed.deps.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\bin\Debug\net6.0\02-Calculate-Speed.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\bin\Debug\net6.0\02-Calculate-Speed.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\bin\Debug\net6.0\02-Calculate-Speed.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.sourcelink.json
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\refint\02-Calculate-Speed.dll
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.pdb
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\02-Calculate-Speed.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\04-Data-Types-and-Variables\02-Calculate-Speed\obj\Debug\net6.0\ref\02-Calculate-Speed.dll

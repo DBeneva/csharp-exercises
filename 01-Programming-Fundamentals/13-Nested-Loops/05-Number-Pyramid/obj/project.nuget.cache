@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xdZHKFlQNyGGlMpG0a83RoEhUB17bmJHsmMjbB4nKryHtLXxf5cfdfM8NOexSdQrSwz0btYBJbg85w3CO2Azg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\13-Nested-Loops\\05-Number-Pyramid\\05-Number-Pyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

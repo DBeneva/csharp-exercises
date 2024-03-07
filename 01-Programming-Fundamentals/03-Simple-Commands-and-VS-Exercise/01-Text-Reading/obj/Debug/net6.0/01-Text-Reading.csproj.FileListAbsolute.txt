@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\bin\Debug\net6.0\01-Text-Reading.exe
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\bin\Debug\net6.0\01-Text-Reading.deps.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\bin\Debug\net6.0\01-Text-Reading.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\bin\Debug\net6.0\01-Text-Reading.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\bin\Debug\net6.0\01-Text-Reading.pdb
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.sourcelink.json
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\refint\01-Text-Reading.dll
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.pdb
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\01-Text-Reading.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\02-Simple-Commands-and-VS-Exercise\01-Text-Reading\obj\Debug\net6.0\ref\01-Text-Reading.dll

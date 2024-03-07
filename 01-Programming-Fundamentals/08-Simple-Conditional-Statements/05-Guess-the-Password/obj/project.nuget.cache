@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIhx7rYEMatzAXBBpqnLN6f4dohhp/T9MiFjhjH8iAZu8x9MtEp9vOhkUC/+WOsYI6zn5cnDoscMyZNJracy7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\07-Simple-Conditional-Statements\\05-Guess-the-Password\\05-Guess-the-Password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

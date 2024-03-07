@@ -1,0 +1,15 @@
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\bin\Debug\net6.0\04-Food-Delivery.exe
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\bin\Debug\net6.0\04-Food-Delivery.deps.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\bin\Debug\net6.0\04-Food-Delivery.runtimeconfig.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\bin\Debug\net6.0\04-Food-Delivery.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\bin\Debug\net6.0\04-Food-Delivery.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.AssemblyInfoInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.AssemblyInfo.cs
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.csproj.CoreCompileInputs.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.sourcelink.json
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\refint\04-Food-Delivery.dll
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.pdb
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\04-Food-Delivery.genruntimeconfig.cache
+C:\Users\dell\CSharp Exercises\06-Data-Types-and-Simple-Calculations-Exercise\04-Food-Delivery\obj\Debug\net6.0\ref\04-Food-Delivery.dll

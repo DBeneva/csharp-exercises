@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAQGERAwbnxQxSZG9p4PHwSwtVgihNMNBOuE/AtcDl+bmRg9OMVa3o/yMUaNNv+9E4cStQm6NCGl+IM/aO8UkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\10-For-Loop\\02-First-N-Numbers-Sum\\02-First-N-Numbers-Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

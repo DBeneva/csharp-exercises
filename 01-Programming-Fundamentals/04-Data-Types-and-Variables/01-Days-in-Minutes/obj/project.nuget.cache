@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMWpqBou2xRQvO6+TuMQhH27NjpuYLlYF94ZZ0ccjw2QBGeLe5C4gvpFAipQOz6I2asGM2gR2rGqd2oisI/WoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\CSharp Exercises\\04-Data-Types-and-Variables\\01-Days-in-Minutes\\01-Days-in-Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
